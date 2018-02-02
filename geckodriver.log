@@ -78,3 +78,24 @@ Unable to read VR Path Registry from C:\Users\Oscar\AppData\Local\openvr\openvrp
 1517361044465	Marionette	INFO	Listening on port 41844
 1517361045229	Marionette	WARN	TLS certificate errors will be ignored for this session
 1517361046469	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270 < GeckoDriver.prototype.quit()@driver.js:3381 < despatch()@server.js:560 < execute()@server.js:534 < onPacket/<()@server.js:509 < onPacket()@server.js:508 < _onJSONObjectReady/<()@transport.js:500
+1517372116551	geckodriver	INFO	geckodriver 0.19.1
+1517372116566	geckodriver	INFO	Listening on 127.0.0.1:42548
+1517372119657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Oscar\\AppData\\Local\\Temp\\rust_mozprofile.9LTnakljwt79"
+1517372121790	Marionette	INFO	Enabled via --marionette
+1517372127233	Marionette	INFO	Listening on port 42557
+1517372127630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517372342317	geckodriver	INFO	geckodriver 0.19.1
+1517372342317	geckodriver	INFO	Listening on 127.0.0.1:42600
+1517372345412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Oscar\\AppData\\Local\\Temp\\rust_mozprofile.NH6lkAePq5Yf"
+1517372347302	Marionette	INFO	Enabled via --marionette
+1517372351097	Marionette	INFO	Listening on port 42608
+1517372351273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517543707082	geckodriver	INFO	geckodriver 0.19.1
+1517543707113	geckodriver	INFO	Listening on 127.0.0.1:51533
+1517543710750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Oscar\\AppData\\Local\\Temp\\rust_mozprofile.ImLjO3QlPz9G"
+1517543718222	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Oscar\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517543745879	Marionette	INFO	Listening on port 51542
+1517543747013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517543752186	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270 < GeckoDriver.prototype.quit()@driver.js:3381 < despatch()@server.js:560 < execute()@server.js:534 < onPacket/<()@server.js:509 < onPacket()@server.js:508 < _onJSONObjectReady/<()@transport.js:500
